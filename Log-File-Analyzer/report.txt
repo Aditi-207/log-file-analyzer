@@ -1,0 +1,5 @@
+---- Security Report ----
+Total Failed Logins: 3
+ALERT: Brute force attack on admin (3 attempts)
+Suspicious IPs:
+- 192.168.1.10
