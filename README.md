@@ -7,9 +7,10 @@ A Python-based security tool designed to analyze system logs and detect suspicio
 - Extracts suspicious IP addresses
 - Generates automated security reports
 - Includes GUI for easy interaction
-## 📸 Output Screenshot
+## 📸 Screenshots
 
-![Log Analyzer](screenshot.png) 
-### 🌐 Network Scanner GUI
+### Log Analyzer
+![Log Analyzer](./screenshot.png)
 
-![Network Scanner](scanner.png)
+### Network Scanner
+![Network Scanner](./scanner.png)
