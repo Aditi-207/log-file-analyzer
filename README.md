@@ -10,7 +10,7 @@ A Python-based security tool designed to analyze system logs and detect suspicio
 ## 📸 Screenshots
 
 ### Log Analyzer
-![Log Analyzer](./screenshot.png)
+![Log Analyzer](Log-File-Analyzer/screenshot.png)
 
 ### Network Scanner
 ![Network Scanner](Log-File-Analyzer/scanner.png)
