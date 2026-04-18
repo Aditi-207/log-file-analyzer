@@ -13,4 +13,4 @@ A Python-based security tool designed to analyze system logs and detect suspicio
 ![Log Analyzer](./screenshot.png)
 
 ### Network Scanner
-![Network Scanner](./scanner.png)
+![Network Scanner](Log-File-Analyzer/scanner.png)
